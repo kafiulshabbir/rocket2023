@@ -26,7 +26,7 @@ Kafi: engine holder, tail complex, fin system, design, testing and installation.
 
 Bhuvan: research and calculation on centre of pressure, design of ring module.
 
-Reza: launch pad research, resign, manufacuring, lubrication. 
+Reza: launch pad research, design, manufacuring, lubrication. 
 
 Alexander: purchase of engine, trajectory determination.
 
