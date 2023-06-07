@@ -30,5 +30,15 @@ Reza: launch pad research, design, manufacuring, lubrication.
 
 Alexander: purchase of engine, trajectory determination.
 
+## Names in Russian
+
+Кафи Шаббир
+
+Бхуван Вамси
+
+Реза Алиасгари 
+
+Александр Арутюнян
+
 ## Team
 ![group-photo-rocket-launch](https://github.com/kafiulshabbir/rocket2023/blob/main/Gallery/group-photo.jpg)
