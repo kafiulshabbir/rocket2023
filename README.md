@@ -10,7 +10,7 @@ Launch time: 16:00 09.04.2023
 
 Location: 55.927840, 37.532516
 
-Mass = 0.172kg
+Mass = 0.372kg
 
 x(C.M) - x(C.P) = 0.025m
 
